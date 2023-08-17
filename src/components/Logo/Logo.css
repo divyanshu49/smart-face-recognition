@@ -1,0 +1,11 @@
+.Tilt{
+    height: 120px;
+    width: 150px;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}
+
+.brain_logo_img{
+    /* padding-top: 10px; */
+    height: 75px;
+    width: 85px;
+}
